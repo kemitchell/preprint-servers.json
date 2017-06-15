@@ -1,7 +1,7 @@
 {
   "name": "preprint-servers",
   "description": "list of preprint servers and metadata",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "devDependencies": {
     "ajv": "^5.1.5",
