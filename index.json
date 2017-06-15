@@ -1,0 +1,188 @@
+[
+  {
+    "name": "AgriXiv",
+    "url": "https://osf.io/preprints/agrixiv",
+    "fields": [
+      "agriculture"
+    ]
+  },
+  {
+    "name": "arXiv",
+    "url": "https://arxiv.org/",
+    "fields": [
+      "computer science",
+      "mathematics",
+      "physics",
+      "quantitative biology",
+      "quantitative finance",
+      "statistics"
+    ]
+  },
+  {
+    "name": "Authorea",
+    "url": "https://www.authorea.com",
+    "general": true
+  },
+  {
+    "name": "Berkeley Initiative for Transparency in the Social Sciences",
+    "url": "https://osf.io/preprints/bitss",
+    "fields": [
+      "reproducibility",
+      "research transparency"
+    ]
+  },
+  {
+    "name": "bioRxiv",
+    "url": "http://biorxiv.org",
+    "fields": [
+      "animal behavior",
+      "animal cognition",
+      "biochemistry",
+      "bioengineering",
+      "bioinformatics",
+      "biology",
+      "biophysics",
+      "cancer biology",
+      "cell biology",
+      "clinical trials",
+      "developmental biology",
+      "ecology",
+      "epidemiology",
+      "evolutionary biology",
+      "genetics",
+      "genomics",
+      "immunology",
+      "microbiology",
+      "molecular biology",
+      "neuroscience",
+      "paleontology",
+      "pathology",
+      "pharmacology",
+      "physiology",
+      "plant biology",
+      "scientific communication",
+      "scientific education",
+      "synthetic biology",
+      "systems biology",
+      "toxicology",
+      "zoology"
+    ]
+  },
+  {
+    "name": "ChinaXiv",
+    "url": "http://chinaxiv.org",
+    "general": true
+  },
+  {
+    "name": "Cogprints",
+    "url": "http://cogprints.org",
+    "fields": [
+      "biology",
+      "computer science",
+      "linguistics",
+      "medicine",
+      "neuroscience",
+      "philosophy",
+      "psychology"
+    ]
+  },
+  {
+    "name": "CORE Repository",
+    "url": "https://mla.hcommons.org",
+    "fields": [
+      "literary studies"
+    ]
+  },
+  {
+    "name": "Cryptology ePrint Archive",
+    "url": "http://eprint.iacr.org",
+    "fields": [
+      "cryptology"
+    ]
+  },
+  {
+    "name": "e-LIS",
+    "url": "http://eprints.rclis.org",
+    "fields": [
+      "information science",
+      "library science"
+    ]
+  },
+  {
+    "name": "Electronic Colloquium on Computational Complexity",
+    "url": "https://eccc.weizmann.ac.il/eccc/",
+    "fields": [
+      "computational complexity"
+    ]
+  },
+  {
+    "name": "engrxiv",
+    "url": "https://osf.io/preprints/engrxiv",
+    "fields": [
+      "engineering"
+    ]
+  },
+  {
+    "name": "LawArxiv",
+    "url": "https://osf.io/preprints/lawarxiv",
+    "fields": [
+      "law"
+    ]
+  },
+  {
+    "name": "LingBuzz",
+    "url": "http://ling.auf.net/lingbuzz",
+    "fields": [
+      "linguistics"
+    ]
+  },
+  {
+    "name": "OSF preprints",
+    "url": "https://osf.io/preprints/",
+    "general": true
+  },
+  {
+    "name": "PeerJ preprints",
+    "url": "https://peerj.com/",
+    "fields": [
+      "biology",
+      "medical science"
+    ]
+  },
+  {
+    "name": "Preprints.org",
+    "url": "https://www.preprints.org",
+    "general": true
+  },
+  {
+    "name": "PsyArXiv",
+    "url": "https://osf.io/preprints/psyarxiv",
+    "fields": [
+      "psychology"
+    ]
+  },
+  {
+    "name": "RePEc",
+    "url": "http://repec.org",
+    "fields": [
+      "economics"
+    ]
+  },
+  {
+    "name": "SocArxiv",
+    "url": "https://osf.io/preprints/socarxiv/",
+    "fields": [
+      "social sciences"
+    ]
+  },
+  {
+    "name": "SSRN",
+    "url": "https://www.ssrn.com/en/",
+    "general": true
+  },
+  {
+    "name": "Zenodo",
+    "url": "https://zenodo.org",
+    "general": true
+  }
+]
